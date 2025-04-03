@@ -41,7 +41,7 @@ The attention modules included in this project primarily predate before 2020, pr
     - Using ResNeXT as backbone for the MANet network
     - <a  href = 'https://arxiv.org/abs/2009.02130'> MANet Article </a>
     <br>
-    <img src='MAnet.png'>
+    
     <br>
 
 - #### MANet-ResNet
