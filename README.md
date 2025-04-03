@@ -22,19 +22,19 @@ The attention modules included in this project primarily predate before 2020, pr
     - Using ResNet18 as a backbone and spatial-channel Squeeze and Excitation module as Attention module for the UNet network
     - <a href="https://arxiv.org/abs/1808.08127v1"> scSE 
     Article </a>
-    <img src = 'scSE_Block.png' />
+    <img src = 'https://production-media.paperswithcode.com/methods/scSE_Block_YcKqn9P.png' />
     <br>
 - #### UNet-ResNeXt18
     - Using ResNeXt-18 as a backbone for the UNet network
     - <a href='https://arxiv.org/abs/1611.05431'> ResNeXT Article </a>
     <br>
-    <img src='ResNeXT.png' />
+    <img src='https://production-media.paperswithcode.com/methods/Screen_Shot_2020-06-06_at_4.32.52_PM.png' />
 
 - #### UNet-ConvNeXt
     - Using ConvNeXT large as a backbone for the UNet network
     - <a href ='https://arxiv.org/abs/2201.03545'> ConvNeXt Article </a>
     <br>
-    <img src='convnext_architecture.jpg' a>
+    <img src='https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/convnext_architecture.jpg' a>
     <br>
 
 - #### MANet-ResNeXt
