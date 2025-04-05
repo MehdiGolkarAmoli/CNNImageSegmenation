@@ -47,11 +47,6 @@ The attention modules included in this project primarily predate before 2020, pr
 - #### MANet-ResNet
     - Using ResNet as backbone for the MANet network
 
-
----
-## Dataset
-This code is mainly to solve binary/ Multiclass semantic segmentation. This models not dependent to a specific dataset but for show the results, the UW-Madison GI Tract used for medical image segmentation.
-
 --
 ## Installation
  - These models are written in the **Pytorch** library
