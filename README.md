@@ -1,4 +1,4 @@
-i# CNN Image Segmenation
+## CNN Image Segmenation
 ![image-segmentation-background](https://github.com/user-attachments/assets/1966be79-08ae-433e-a61f-a5061a4460fa)
 
 ## Introduction
