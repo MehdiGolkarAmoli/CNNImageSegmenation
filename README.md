@@ -26,8 +26,8 @@ The attention modules included in this project primarily predate before 2020, pr
     Article </a>
     <img src = 'https://production-media.paperswithcode.com/methods/scSE_Block_YcKqn9P.png' />
     <br>
-- #### UNet-ResNeXt18
-    - Using ResNeXt-18 as a backbone for the UNet network
+- #### UNet-ResNeXt50
+    - Using ResNeXt-50 as a backbone for the UNet network
     - <a href='https://arxiv.org/abs/1611.05431'> ResNeXT Article </a>
     <br>
     <img src='https://production-media.paperswithcode.com/methods/Screen_Shot_2020-06-06_at_4.32.52_PM.png' />
