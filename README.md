@@ -1,4 +1,6 @@
 # CNN Image Segmenation
+![image-segmentation-background](https://github.com/user-attachments/assets/1966be79-08ae-433e-a61f-a5061a4460fa)
+
 ## Introduction
 This project implement some CNN based image segmentation models.
 This project showcases my work in image segmentation using deep Convolutional Neural Networks (CNNs). It features various CNN models designed for segmentation tasks, most of which are based on the encoder-decoder architecture. The key differences among these models lie in the choice of encoder networks for feature extraction and the integration of attention mechanisms to enhance accuracy and focus on critical regions in feature maps.
