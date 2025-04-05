@@ -1,4 +1,4 @@
-# CNN Image Segmenation
+i# CNN Image Segmenation
 ![image-segmentation-background](https://github.com/user-attachments/assets/1966be79-08ae-433e-a61f-a5061a4460fa)
 
 ## Introduction
@@ -68,7 +68,7 @@ pip3 install torch==2.6 torchvision==0.21.
 pip install early-stopping-pytorch
 pip install torchmetrics
 ```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MegaRsIran&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MegaRsIran&show_icons=true&theme=transparent)
 
 
 ## References
